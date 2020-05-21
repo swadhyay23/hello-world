@@ -1,5 +1,5 @@
 # hello-world
-become a successful person
-i like to learn new things.
-i want to become a hacker
-hacking is like a magic
+Become a successful person, 
+I like to learn new things, 
+I want to become a hacker,
+Hacking is like a magic
